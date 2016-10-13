@@ -1,0 +1,21 @@
+/*
+* @author Bocman
+* @date Thu Oct 13 13:29:52 EET 2016
+*/
+
+package lu.uni.lassy.excalibur.specexec.concepts.primarytypes.datatypes {
+
+import lu.uni.lassy.messir.libraries.calendar
+import lu.uni.lassy.messir.libraries.math
+import lu.uni.lassy.messir.libraries.primitives
+import lu.uni.lassy.messir.libraries.string
+
+
+
+Concept Model {
+
+	Primary Types {
+   
+	}
+}
+}
